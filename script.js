@@ -6,10 +6,10 @@ const rotuloEtapa = document.querySelector("#rotulo-etapa");
 const rotuloTitulo = document.querySelector("#rotulo-titulo");
 
 const titulos = {
-  territorio: ["Escena 1", "Ubicar el territorio"],
-  cambio: ["Escena 2", "Mostrar el cambio"],
-  contraste: ["Escena 3", "Comparar casos"],
-  detalle: ["Escena 4", "Acercarse al detalle"]
+  territorio: ["Encuesta", "Conociendo a nuestros oyentes"],
+  cambio: ["Resultados", "¿Qué géneros dominan las playlist?"],
+  contraste: ["Análisis", "Los gustos se conectan"],
+  detalle: ["Recomendador", "Transformando datos en recomendaciones"]
 };
 
 function activarPaso(pasoActivo) {
