@@ -6,7 +6,7 @@ const rotuloEtapa = document.querySelector("#rotulo-etapa");
 const rotuloTitulo = document.querySelector("#rotulo-titulo");
 
 const titulos = {
-  territorio: ["Escena 1", "Ubicar el territorio"],
+  territorio: ["Encuesta", "Conociendo a nuestros oyentes"],
   cambio: ["Escena 2", "Mostrar el cambio"],
   contraste: ["Escena 3", "Comparar casos"],
   detalle: ["Escena 4", "Acercarse al detalle"]
